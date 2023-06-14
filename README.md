@@ -1,2 +1,2 @@
 # JornadaFullstackEBAC
-Projeto com foco de criar um clone do Tiktok web.
+Projeto com o objetivo de desenvolver uma versão web similar ao TikTok.
